@@ -2,9 +2,12 @@
 
 This project implements a slide presenter, using ReactJS.
 
+Watch a [Online demo](https://loving-albattani-d2cf4e.netlify.app/).
+
 <p align="center">
 	<img src="https://user-images.githubusercontent.com/54327441/84270917-d11ee000-ab01-11ea-83fe-cf422c8bb46d.png" height="360" width="400" alt="Demo screen" />
 </p>
+
 
 <h2>Environment requirements</h2>
 
